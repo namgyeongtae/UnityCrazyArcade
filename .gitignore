@@ -2,3 +2,12 @@
 Logs
 UserSettings
 Temp
+.vscode
+Fusion.Unity.csproj
+Fusion.Unity.Editor.csproj
+Unity.Fusion.CodeGen.csproj
+UnityCrazyArcade.sln
+Packages/manifest.json
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/SceneTemplateSettings.json
